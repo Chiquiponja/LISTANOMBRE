@@ -1,0 +1,7 @@
+C:\Users\prisc\source\repos\ListaNombree\ListaNombree\bin\Debug\ListaNombree.exe.config
+C:\Users\prisc\source\repos\ListaNombree\ListaNombree\bin\Debug\ListaNombree.exe
+C:\Users\prisc\source\repos\ListaNombree\ListaNombree\bin\Debug\ListaNombree.pdb
+C:\Users\prisc\source\repos\ListaNombree\ListaNombree\obj\Debug\ListaNombree.csprojAssemblyReference.cache
+C:\Users\prisc\source\repos\ListaNombree\ListaNombree\obj\Debug\ListaNombree.csproj.CoreCompileInputs.cache
+C:\Users\prisc\source\repos\ListaNombree\ListaNombree\obj\Debug\ListaNombree.exe
+C:\Users\prisc\source\repos\ListaNombree\ListaNombree\obj\Debug\ListaNombree.pdb
